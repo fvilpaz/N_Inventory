@@ -22,7 +22,7 @@ Para empezar a usar N_Inventory:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/N_Inventory](https://github.com/tu-usuario/N_Inventory)
+    git clone https://github.com/fvilpaz/N_Inventory
     ```
 2.  **Navega a la carpeta:**
     ```bash
